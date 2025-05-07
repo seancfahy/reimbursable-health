@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <section>
-      <h1 className="text-2xl font-bold mb-4">Reimbursable Health</h1>
+      <h1 className="text-2xl font-bold mb-4">Reimbursable Health – Medicare Tools</h1>
       <p className="text-gray-600 mb-4">
         Instantly look up Medicare reimbursement data — ASP pricing, HCPCS codes, billing guidelines, and more.
       </p>
