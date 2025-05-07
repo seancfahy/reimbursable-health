@@ -1,1 +1,8 @@
-export default function UseCases() { return <div className='p-6'>Example use cases for Medicare reimbursement workflows.</div>; }
+export default function UseCases() {
+  return (
+    <section>
+      <h1 className="text-2xl font-bold mb-4">Use Case Examples</h1>
+      <p className="text-gray-600">Example queries to help guide new users.</p>
+    </section>
+  );
+}

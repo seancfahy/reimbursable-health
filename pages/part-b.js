@@ -1,1 +1,8 @@
-export default function PartB() { return <div className='p-6'>Part B ASP pricing tool will go here.</div>; }
+export default function PartB() {
+  return (
+    <section>
+      <h1 className="text-2xl font-bold mb-4">ASP Pricing (Part B)</h1>
+      <p className="text-gray-600">Lookup ASP values, effective quarters, and historical trends.</p>
+    </section>
+  );
+}

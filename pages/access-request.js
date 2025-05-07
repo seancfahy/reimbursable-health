@@ -1,1 +1,8 @@
-export default function AccessRequest() { return <div className='p-6'>Access request form (linked to Tally) will go here.</div>; }
+export default function AccessRequest() {
+  return (
+    <section>
+      <h1 className="text-2xl font-bold mb-4">Request Access</h1>
+      <p className="text-gray-600">Submit a request for API or premium feature access.</p>
+    </section>
+  );
+}
