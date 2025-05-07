@@ -1,5 +1,6 @@
+
 {
-  "name": "reimbursable-health-frontend",
+  "name": "reimbursable-health",
   "version": "1.0.0",
   "private": true,
   "scripts": {
