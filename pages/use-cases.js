@@ -1,0 +1,1 @@
+export default function UseCases() { return <div className='p-6'>Example use cases for Medicare reimbursement workflows.</div>; }

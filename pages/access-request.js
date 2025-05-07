@@ -1,0 +1,1 @@
+export default function AccessRequest() { return <div className='p-6'>Access request form (linked to Tally) will go here.</div>; }

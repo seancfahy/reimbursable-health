@@ -1,0 +1,1 @@
+export default function PartB() { return <div className='p-6'>Part B ASP pricing tool will go here.</div>; }

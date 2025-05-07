@@ -1,0 +1,1 @@
+export default function CMSNews() { return <div className='p-6'>CMS news feed or RSS will render here.</div>; }

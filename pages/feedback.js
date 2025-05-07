@@ -1,0 +1,1 @@
+export default function Feedback() { return <div className='p-6'>Feedback and feature request form embedded here.</div>; }

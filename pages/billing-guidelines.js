@@ -1,0 +1,1 @@
+export default function BillingGuidelines() { return <div className='p-6'>Billing and coding guidelines will be added here.</div>; }

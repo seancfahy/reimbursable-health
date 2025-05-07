@@ -1,0 +1,1 @@
+export default function LCDFinder() { return <div className='p-6'>LCD Finder results will show here.</div>; }

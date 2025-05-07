@@ -1,0 +1,1 @@
+export default function PartD() { return <div className='p-6'>Part D formulary lookup coming soon.</div>; }
